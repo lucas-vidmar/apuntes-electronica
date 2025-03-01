@@ -48,7 +48,7 @@
 - 3.3.082 Señales y Sistemas
 - 3.3.127 Sistemas Embebidos
 - 3.3.128 Seminario I
-- 3.3.076 Máquinas Eléctricas
+- [3.3.076 Máquinas Eléctricas](/4to/3.3.076_Maquinas_Electricas.htm)
 - 3.3.058 Diseño Asistido por Computadora
 - 3.3.086 Microondas
 - 3.3.084 Procesamiento de Señales
@@ -59,7 +59,7 @@
 - 3.3.130 Evaluación de Proyectos
 - 3.3.092 Mecatrónica
 - [3.3.131 Procesamiento de Imágenes y Video](/5to/3.3.131_Procesamiento_de_Imagenes_y_Video.htm)
-- 3.3.081 Telecomunicaciones I
+- [3.3.081 Telecomunicaciones I](/5to/3.3.081_Telecomunicaciones_I.htm)
 - 3.3.132 Diseño de Circuitos y Aplicaciones II
 - 3.3.133 Proyecto Final de Ingeniería Electrónica
 - [3.3.093 Dirección de Proyectos](/5to/3.3.093_Direccion_de_Proyectos.htm)
