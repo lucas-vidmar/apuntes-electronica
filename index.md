@@ -62,7 +62,7 @@
 - 3.3.081 Telecomunicaciones I
 - 3.3.132 Diseño de Circuitos y Aplicaciones II
 - 3.3.133 Proyecto Final de Ingeniería Electrónica
-- 3.3.093 Dirección de Proyectos
+- [3.3.093 Dirección de Proyectos](/5to/3.3.093_Direccion_de_Proyectos.htm)
 - 3.3.134 Electrónica de Potencia
 - 3.3.135 Tecnología de Dispositivos Micro y Nano Electrónicos
 - 3.3.149 Sistemas de Comunicaciones I
