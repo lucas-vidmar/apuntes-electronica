@@ -39,7 +39,7 @@
 - 3.3.070 Electrónica
 - [3.3.071 Medios de Comunicación](/3ero/3.3.071_Medios_de_Comunicacion.htm)
 - 3.3.061 Sistemas Digitales II
-- 3.3.126 Laboratorio de Mediciones Electrónicas
+- [3.3.126 Laboratorio de Mediciones Electrónicas](/3ero/3.3.126_Laboratorio_de_Mediciones_Electronicas.htm)
 
 
 ## 4to Año
