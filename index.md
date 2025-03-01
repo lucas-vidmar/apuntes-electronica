@@ -37,7 +37,7 @@
 - 3.3.124 Tecnología de los Materiales Electrónicos
 - 3.3.125 Teoría de los Circuitos
 - 3.3.070 Electrónica
-- 3.3.071 Medios de Comunicación
+- [3.3.071 Medios de Comunicación](/3ero/3.3.071_Medios_de_Comunicacion.htm)
 - 3.3.061 Sistemas Digitales II
 - 3.3.126 Laboratorio de Mediciones Electrónicas
 
