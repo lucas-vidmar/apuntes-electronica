@@ -58,7 +58,7 @@
 ## 5to Año
 - 3.3.130 Evaluación de Proyectos
 - 3.3.092 Mecatrónica
-- 3.3.131 Procesamiento de Imágenes y Video
+- [3.3.131 Procesamiento de Imágenes y Video](/5to/3.3.131_Procesamiento_de_Imagenes_y_Video.htm)
 - 3.3.081 Telecomunicaciones I
 - 3.3.132 Diseño de Circuitos y Aplicaciones II
 - 3.3.133 Proyecto Final de Ingeniería Electrónica
