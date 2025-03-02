@@ -1,5 +1,8 @@
 # Apuntes Ingeniería Electrónica UADE
 
+> Este repositorio contiene apuntes de las materias de la carrera de Ingeniería Electrónica de la Universidad Argentina de la Empresa (UADE).
+> Es un repositorio colaborativo, por lo que **cualquier aporte es bienvenido**. Para colaborar, simplemente cloná el repositorio y hacé un pull request con tus cambios y con gusto los revisaré y daré el crédito correspondiente.
+
 ## Correlatividades
 
 ![Diagrama de correlatividades](/diagrama_correlatividades.png)
@@ -72,7 +75,8 @@
 
 ## Otros recursos
 
-- [Plan de estudios](/materias.xlsx)
-
+- [📅 Plan de estudios](/materias.xlsx)
+- [📇 Repo GitHub](https://github.com/lucas-vidmar/apuntes-electronica)
+- [🔗 Link alternativos a esta web](https://lucas-vidmar.github.io/apuntes-electronica/)
 
 > Con ❤️ a la ingeniería, por [Lucas Vidmar](https://lucas.vidm.ar)
