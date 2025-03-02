@@ -31,7 +31,7 @@
 
 ## 3er Año
 - 3.3.067 Electrotecnia
-- 3.3.068 Fundamentos de Electrónica
+- [3.3.068 Fundamentos de Electrónica](/3ero/3.3.068_Fundamentos_de_Electronica.htm)
 - [3.3.069 Campos y Ondas Electromagnéticas](/3ero/3.3.069_Campos_y_Ondas_Electromagneticas.htm)
 - 3.3.060 Sistemas Digitales I
 - 3.3.124 Tecnología de los Materiales Electrónicos
