@@ -64,7 +64,7 @@
 - 3.3.133 Proyecto Final de Ingeniería Electrónica
 - [3.3.093 Dirección de Proyectos](/5to/3.3.093_Direccion_de_Proyectos.htm)
 - 3.3.134 Electrónica de Potencia
-- 3.3.135 Tecnología de Dispositivos Micro y Nano Electrónicos
+- [3.3.135 Tecnología de Dispositivos Micro y Nano Electrónicos](/5to/3.3.135_Tecnologia_de_Dispositivos_Micro_y_Nano_Electronicos.htm)
 - 3.3.149 Sistemas de Comunicaciones I
 - 3.3.136 Seminario II
 - PPS04 Práctica Profesional Supervisada
