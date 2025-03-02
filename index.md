@@ -43,7 +43,7 @@
 
 
 ## 4to Año
-- 3.3.079 Instrumentación y Control
+- [3.3.079 Instrumentación y Control](/4to/3.3.079_Instrumentacion_y_Control.htm)
 - 3.3.080 Electrónica de Sistemas de Comunicación
 - 3.3.082 Señales y Sistemas
 - 3.3.127 Sistemas Embebidos
