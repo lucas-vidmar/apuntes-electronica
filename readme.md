@@ -50,7 +50,7 @@
 - [3.3.128 Seminario I](/4to/3.3.128_Seminario_I.htm)
 - [3.3.076 Máquinas Eléctricas](/4to/3.3.076_Maquinas_Electricas.htm)
 - [3.3.058 Diseño Asistido por Computadora](/4to/3.3.058_Diseno_Asistido_por_Computadora.htm)
-- 3.3.086 Microondas
+- [3.3.086 Microondas](/4to/3.3.086_Microondas.htm)
 - [3.3.084 Procesamiento de Señales](/4to/3.3.084_Procesamiento_de_Senales.htm)
 - [3.4.045 Teoría de la Información y la Codificación](/4to/3.4.045_Teoria_de_la_Informacion_y_la_Codificacion.htm)
 - [3.3.129 Diseño de Circuitos y Aplicaciones I](/4to/3.3.129_Diseno_de_Circuitos_y_Aplicaciones_I.htm)
