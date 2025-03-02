@@ -46,7 +46,7 @@
 - [3.3.079 Instrumentación y Control](/4to/3.3.079_Instrumentacion_y_Control.htm)
 - 3.3.080 Electrónica de Sistemas de Comunicación
 - 3.3.082 Señales y Sistemas
-- 3.3.127 Sistemas Embebidos
+- [3.3.127 Sistemas Embebidos](/4to/3.3.127_Sistemas_Embebidos.htm)
 - [3.3.128 Seminario I](/4to/3.3.128_Seminario_I.htm)
 - [3.3.076 Máquinas Eléctricas](/4to/3.3.076_Maquinas_Electricas.htm)
 - [3.3.058 Diseño Asistido por Computadora](/4to/3.3.058_Diseno_Asistido_por_Computadora.htm)
