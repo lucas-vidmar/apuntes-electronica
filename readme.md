@@ -53,7 +53,7 @@
 - 3.3.086 Microondas
 - [3.3.084 Procesamiento de Señales](/4to/3.3.084_Procesamiento_de_Senales.htm)
 - [3.4.045 Teoría de la Información y la Codificación](/4to/3.4.045_Teoria_de_la_Informacion_y_la_Codificacion.htm)
-- 3.3.129 Diseño de Circuitos y Aplicaciones I
+- [3.3.129 Diseño de Circuitos y Aplicaciones I](/4to/3.3.129_Diseno_de_Circuitos_y_Aplicaciones_I.htm)
 
 ## 5to Año
 - 3.3.130 Evaluación de Proyectos
