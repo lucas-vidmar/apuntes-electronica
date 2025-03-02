@@ -75,4 +75,4 @@
 - [Plan de estudios](/materias.xlsx)
 
 
-> Con amor a la ingeniería, por [Lucas Vidmar](https://lucas.vidm.ar)
+> Con ❤️ a la ingeniería, por [Lucas Vidmar](https://lucas.vidm.ar)
