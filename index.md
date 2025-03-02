@@ -47,7 +47,7 @@
 - 3.3.080 Electrónica de Sistemas de Comunicación
 - 3.3.082 Señales y Sistemas
 - 3.3.127 Sistemas Embebidos
-- 3.3.128 Seminario I
+- [3.3.128 Seminario I](/4to/3.3.128_Seminario_I.htm)
 - [3.3.076 Máquinas Eléctricas](/4to/3.3.076_Maquinas_Electricas.htm)
 - 3.3.058 Diseño Asistido por Computadora
 - 3.3.086 Microondas
@@ -66,7 +66,7 @@
 - 3.3.134 Electrónica de Potencia
 - [3.3.135 Tecnología de Dispositivos Micro y Nano Electrónicos](/5to/3.3.135_Tecnologia_de_Dispositivos_Micro_y_Nano_Electronicos.htm)
 - 3.3.149 Sistemas de Comunicaciones I
-- 3.3.136 Seminario II
+- [3.3.136 Seminario II](/4to/3.3.128_Seminario_I.htm)
 - PPS04 Práctica Profesional Supervisada
 - 2.4.216 Examen de Inglés
 
