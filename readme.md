@@ -52,7 +52,7 @@
 - 3.3.058 Diseño Asistido por Computadora
 - 3.3.086 Microondas
 - 3.3.084 Procesamiento de Señales
-- 3.4.045 Teoría de la Información y la Codificación
+- [3.4.045 Teoría de la Información y la Codificación](/4to/3.4.045_Teoria_de_la_Informacion_y_la_Codificacion.htm)
 - 3.3.129 Diseño de Circuitos y Aplicaciones I
 
 ## 5to Año
