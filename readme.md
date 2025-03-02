@@ -73,6 +73,14 @@
 - PPS04 Práctica Profesional Supervisada
 - 2.4.216 Examen de Inglés
 
+## Tutorial de descarga en PDF
+1. Abrí la materia que quieras descargar
+2. Hacé click derecho en la página
+3. Hacé Ctrl + P
+4. En la ventana de impresión, seleccioná "Guardar como PDF" en el destino
+5. Hacé click en "Guardar" y elegí la ubicación donde quieras guardar el archivo
+6. ¡Listo!
+
 ## Otros recursos
 
 - [📅 Plan de estudios](/materias.xlsx)
