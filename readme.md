@@ -26,7 +26,7 @@
 - 3.1.019 Estadística Aplicada
 - 3.4.057 Programación Avanzada
 - [3.3.065 Electricidad y Magnetismo](/2do/3.3.065_Electricidad_y_Magnetismo.htm)
-- 3.1.020 Cálculo Numérico
+- [3.1.020 Cálculo Numérico](/2do/3.1.020_Calculo_Numerico.htm)
 - 3.3.003 Medios de Representación
 - 3.1.013 Matemática Avanzada
 - [3.3.123 Física Moderna](/2do/3.3.123_Fisica_Moderna.htm)
