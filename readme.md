@@ -30,7 +30,7 @@
 - 3.3.003 Medios de Representación
 - 3.1.013 Matemática Avanzada
 - 3.3.123 Física Moderna
-- 3.3.100 Higiene, Seguridad y Medio Ambiente
+- [3.3.100 Higiene, Seguridad y Medio Ambiente](/2do/3.3.100_Higiene_Seguridad_y_Medio_Ambiente.htm)
 
 ## 3er Año
 - 3.3.067 Electrotecnia
