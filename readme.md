@@ -66,7 +66,7 @@
 - 3.3.092 Mecatrónica
 - [3.3.131 Procesamiento de Imágenes y Video](/5to/3.3.131_Procesamiento_de_Imagenes_y_Video.htm)
 - [3.3.081 Telecomunicaciones I](/5to/3.3.081_Telecomunicaciones_I.htm)
-- 3.3.132 Diseño de Circuitos y Aplicaciones II
+- [3.3.132 Diseño de Circuitos y Aplicaciones II](/5to/3.3.132_Diseno_de_Circuitos_y_Aplicaciones_II.htm)
 - 3.3.133 Proyecto Final de Ingeniería Electrónica
 - [3.3.093 Dirección de Proyectos](/5to/3.3.093_Direccion_de_Proyectos.htm)
 - [3.3.134 Electrónica de Potencia](/5to/3.3.134_Electronica_de_Potencia.htm)
