@@ -33,7 +33,7 @@
 - [3.3.100 Higiene, Seguridad y Medio Ambiente](/2do/3.3.100_Higiene_Seguridad_y_Medio_Ambiente.htm)
 
 ## 3er Año
-- 3.3.067 Electrotecnia
+- [3.3.067 Electrotecnia](/3ero/3.3.067_Electrotecnia.htm)
 - [3.3.068 Fundamentos de Electrónica](/3ero/3.3.068_Fundamentos_de_Electronica.htm)
 - [3.3.069 Campos y Ondas Electromagnéticas](/3ero/3.3.069_Campos_y_Ondas_Electromagneticas.htm)
 - 3.3.060 Sistemas Digitales I
