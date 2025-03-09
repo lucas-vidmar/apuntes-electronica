@@ -29,7 +29,7 @@
 - 3.1.020 Cálculo Numérico
 - 3.3.003 Medios de Representación
 - 3.1.013 Matemática Avanzada
-- 3.3.123 Física Moderna
+- [3.3.123 Física Moderna](/2do/3.3.123_Fisica_Moderna.htm)
 - [3.3.100 Higiene, Seguridad y Medio Ambiente](/2do/3.3.100_Higiene_Seguridad_y_Medio_Ambiente.htm)
 
 ## 3er Año
