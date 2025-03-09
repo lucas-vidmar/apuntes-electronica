@@ -25,7 +25,7 @@
 - 2.3.060 Aspectos Éticos y Legales de la Ingeniería
 - 3.1.019 Estadística Aplicada
 - 3.4.057 Programación Avanzada
-- 3.3.065 Electricidad y Magnetismo
+- [3.3.065 Electricidad y Magnetismo](/2do/3.3.065_Electricidad_y_Magnetismo.htm)
 - 3.1.020 Cálculo Numérico
 - 3.3.003 Medios de Representación
 - 3.1.013 Matemática Avanzada
@@ -79,9 +79,9 @@
 ## Tutorial de descarga en PDF
 1. Abrí la materia que quieras descargar
 2. Hacé click derecho en la página
-3. Hacé Ctrl + P
-4. En la ventana de impresión, seleccioná "Guardar como PDF" en el destino
-5. Hacé click en "Guardar" y elegí la ubicación donde quieras guardar el archivo
+3. Hacé <kbd>Ctrl</kbd> + <kbd>P</kbd>
+4. En la ventana de impresión, seleccioná *Guardar como PDF* en el destino
+5. Hacé click en *Guardar* y elegí la ubicación donde quieras guardar el archivo
 6. ¡Listo!
 
 ## Otros recursos
