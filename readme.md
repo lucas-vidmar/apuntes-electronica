@@ -12,7 +12,7 @@
 - [1.1.030 Dirección de Empresas](/1ero/1.1.030_Direccion_de_Empresas.htm)
 - 2.1.002 Pensamiento Crítico y Comunicación
 - 3.1.006 Álgebra y Geometría Analítica
-- 2.1.082 Ética y Filosofía
+- [2.1.082 Ética y Filosofía](/1ero/2.1.082_Etica_y_Filosofia.htm)
 - 3.1.008 Análisis Matemático II
 - 3.3.002 Física General
 - 3.2.007 Química General
