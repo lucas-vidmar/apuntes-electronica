@@ -38,7 +38,7 @@
 - [3.3.069 Campos y Ondas Electromagnéticas](/3ero/3.3.069_Campos_y_Ondas_Electromagneticas.htm)
 - 3.3.060 Sistemas Digitales I
 - 3.3.124 Tecnología de los Materiales Electrónicos
-- 3.3.125 Teoría de los Circuitos
+- [3.3.125 Teoría de los Circuitos](/3ero/3.3.125_Teoria_de_los_Circuitos.htm)
 - [3.3.070 Electrónica](/3ero/3.3.070_Electronica.htm)
 - [3.3.071 Medios de Comunicación](/3ero/3.3.071_Medios_de_Comunicacion.htm)
 - [3.3.061 Sistemas Digitales II](/3ero/3.3.061_Sistemas_Digitales_II.htm)
@@ -88,6 +88,6 @@
 
 - [📅 Plan de estudios](/materias.xlsx)
 - [📇 Repo GitHub](https://github.com/lucas-vidmar/apuntes-electronica)
-- [🔗 Link alternativos a esta web](https://lucas-vidmar.github.io/apuntes-electronica/)
+- [🔗 Link alternativo a esta web](https://lucas-vidmar.github.io/apuntes-electronica/)
 
 > Con ❤️ a la ingeniería, por [Lucas Vidmar](https://lucas.vidm.ar)
